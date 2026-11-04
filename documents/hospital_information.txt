@@ -1,0 +1,11 @@
+Hospital Name: City Care Hospital
+Location: Madanapalle, Andhra Pradesh
+Hospital Type: Multi-specialty hospital
+
+City Care Hospital provides outpatient consultations across multiple medical departments.
+
+Patients can visit the hospital for consultations, general health checkups, and specialist appointments.
+
+Appointments can be booked through the hospital appointment system or at the reception.
+
+This is a demonstration project. All hospital information, doctors, timings, and fees are sample data and should not be treated as real hospital information.

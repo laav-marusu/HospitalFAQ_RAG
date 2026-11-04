@@ -1,0 +1,9 @@
+Doctors List
+
+Cardiology: Dr Arun Kumar
+Dermatology: Dr Priya Sharma
+Orthopedics: Dr Rahul Verma
+Pediatrics: Dr Anitha Rao
+Neurology: Dr Kiran Kumar
+
+All doctors listed here are fictional sample doctors for this demonstration project.

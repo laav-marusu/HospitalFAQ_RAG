@@ -1,0 +1,9 @@
+OPD Timings
+
+Cardiology: Monday to Saturday, 9:00 AM to 1:00 PM
+Dermatology: Monday to Saturday, 10:00 AM to 2:00 PM
+Orthopedics: Monday to Saturday, 9:00 AM to 12:00 PM
+Pediatrics: Monday to Saturday, 10:00 AM to 1:00 PM
+Neurology: Monday to Friday, 2:00 PM to 5:00 PM
+
+These are fictional sample timings.

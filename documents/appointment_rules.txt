@@ -1,0 +1,8 @@
+Appointment Rules
+
+1. Patients should book an appointment before visiting.
+2. Patients should arrive 15 minutes before their appointment.
+3. Patients should provide their name and contact number when booking.
+4. Patients may select an available doctor and appointment slot.
+5. Appointment bookings in this project are demonstrations only.
+6. For emergencies, patients should contact local emergency services instead of using this appointment system.

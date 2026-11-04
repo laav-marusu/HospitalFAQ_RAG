@@ -1,0 +1,9 @@
+Consultation Fees
+
+Cardiology: Rs. 500
+Dermatology: Rs. 400
+Orthopedics: Rs. 450
+Pediatrics: Rs. 300
+Neurology: Rs. 600
+
+These are sample fees for demonstration purposes only.

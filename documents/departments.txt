@@ -1,0 +1,7 @@
+Departments Available
+
+1. Cardiology - Heart-related consultations.
+2. Dermatology - Skin and hair consultations.
+3. Orthopedics - Bone and joint consultations.
+4. Pediatrics - Child healthcare consultations.
+5. Neurology - Brain and nervous system consultations.
