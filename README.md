@@ -195,7 +195,9 @@ Project Repository:
 
 https://github.com/laav-marusu/HospitalFAQ_RAG.git
 
+live link:
 
+https://hospital-react-gamma.vercel.app/
 
 
 **Project Name:** Hospital FAQ & Appointment Helper  
